@@ -25,9 +25,6 @@ Key products include:
 - **[Hushar Spreadsheet](https://www.lioran.group/companies/lioran-tech/products/hushar-spreadsheet)**  
   A user-friendly spreadsheet system that allows anyone to manage, organize, and structure data **without complicated formulas or workflows**. Ideal for teachers, administrators, and organizations.  
 
-- **[Hostel Buddy](https://www.lioran.group/companies/lioran-tech/products/hostel-buddy)**  
-  A digital companion app for **hostel management**, helping students, wardens, and administrators streamline **requests, notices, records, and communication** in one place.  
-
 Lioran Tech focuses on **real-world problem solving**, designing products that are **intuitive, reliable, and effective**.
 
 ### 3. **Future Ventures**
@@ -39,8 +36,6 @@ This division explores **new ideas and experimental projects**, preparing Lioran
 ## 📌 Leadership
 
 - **Swaraj Puppalwar** — Co-Founder & CTO  
-- **Shreyash Raipura** — Co-Founder, CEO & CFO  
-- **Pranay Kumeriya** — Co-Founder & COO  
 
 [Meet the full team →](https://www.lioran.group/leadership)
 
