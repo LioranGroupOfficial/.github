@@ -39,8 +39,6 @@ This division explores **new ideas and experimental projects**, preparing Lioran
 ## 📌 Leadership
 
 - **Swaraj Puppalwar** — Co-Founder & CTO  
-- **Shreyash Raipure** — Co-Founder, CEO & CFO  
-- **Pranay Kumeriya** — Co-Founder & COO  
 
 [Meet the full team →](https://www.lioran.group/leadership)
 
