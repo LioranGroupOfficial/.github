@@ -1,62 +1,114 @@
-# 🌐 Lioran Group
+# 👋 Welcome to Lioran Group
 
-Welcome to the official GitHub organization of **Lioran Group** — a multi-venture technology and innovation group focused on building **practical, impactful products and services**. 🚀  
+> Building developer infrastructure from India for the world. 🤔
 
-Our mission is to **solve real-world problems** through innovative solutions, scalable systems, and user-friendly products.
+Lioran Group (LG) is a technology organization focused on creating practical developer infrastructure, platforms, and tools.
 
----
+Our goal is simple:
 
-## 🔹 Our Ventures
-
-**Lioran Group** is structured into multiple divisions, each focused on a distinct area of innovation:
-
-### 1. **LCS — Lioran Cloud Services**
-Our **R&D and cloud services division**, responsible for:
-- Designing and maintaining **scalable cloud-based infrastructure**.  
-- Supporting all Lioran products with **reliable, coordinated backend systems**.  
-- Researching new technologies and solutions that can improve **efficiency and automation** across the group.  
-
-LCS ensures that every product and service is **stable, robust, and scalable**, laying the foundation for future growth.
-
-### 2. **Lioran Tech**
-The **product engineering and software division** of Lioran Group, focused on creating tools that **simplify daily tasks** and **enhance productivity**.  
-
-Key products include:
-- **[Hushar Spreadsheet](https://www.lioran.group/companies/lioran-tech/products/hushar-spreadsheet)**  
-  A user-friendly spreadsheet system that allows anyone to manage, organize, and structure data **without complicated formulas or workflows**. Ideal for teachers, administrators, and organizations.  
-
-- **[Hostel Buddy](https://www.lioran.group/companies/lioran-tech/products/hostel-buddy)**  
-  A digital companion app for **hostel management**, helping students, wardens, and administrators streamline **requests, notices, records, and communication** in one place.  
-
-Lioran Tech focuses on **real-world problem solving**, designing products that are **intuitive, reliable, and effective**.
-
-### 3. **Future Ventures**
-This division explores **new ideas and experimental projects**, preparing Lioran Group for **emerging opportunities** in technology, education, and operations.  
-- Focuses on **research, prototyping, and innovation**, identifying the next wave of solutions to tackle unmet needs.  
+**Build products that reduce dependency on foreign infrastructure and help developers own their stack.**
 
 ---
 
-## 📌 Leadership
+## 😏 What We're Building
 
-- **Swaraj Puppalwar** — Co-Founder & CTO  
+### 🏗️ Lioran Developer Solutions (LDS)
 
-[Meet the full team →](https://www.lioran.group/leadership)
+LDS is the infrastructure division of Lioran Group.
+
+We're building a complete developer ecosystem:
+
+* **LioranDB** — NoSQL document database
+* **LioranBastion** — Object storage platform
+* **Lioran Auth** — Authentication & authorization platform
+
+Website: https://lioransolutions.com
 
 ---
 
-## 📄 Legal
+## 🤨 LioranDB
 
-We maintain transparency and trust with our users and partners:  
-- **[Privacy Policy](https://www.lioran.group/legal)**  
-- **[Terms of Use](https://www.lioran.group/legal)**  
-- **[Refund Policy](https://www.lioran.group/legal)**  
+A high-performance NoSQL document database built in India.
+
+### Why LioranDB?
+
+1. Support the vision that Indian data should stay in India.
+2. 100% Made in India database technology.
+3. Reduce dependency on foreign infrastructure providers.
+
+### Current Metrics
+
+* 10+ million documents tested
+* Text indexing support
+* Secondary indexes
+* Stable 45,000 operations/sec
+
+  * ~10,000 writes/sec
+  * ~35,000 reads/sec
+* ~1 GB storage per 1 million documents (heavy SaaS workloads)
+
+### Current Status
+
+😅 Still being built.
+
+But it's getting serious.
+
+* LioranDB v1 served 10+ pilot clients.
+* 90%+ feedback has been positive.
+* Multiple clients are ready for paid deployments.
+* LioranDB v2 is currently being rewritten in Rust.
+
+The previous generation was built with TypeScript and LevelDB.
+
+The new generation includes:
+
+* Custom storage engine
+* Custom KV store
+* WAL
+* MVCC
+* Indexing engine
+* Multi-node architecture
+* Infrastructure designed specifically for SaaS workloads
 
 ---
 
-## 🌟 Connect With Us
+## 🤔 Why Are We Doing This?
 
-- **Website:** [lioran.group](https://www.lioran.group)  
-- **GitHub:** [github.com/LioranGroup](https://github.com/LioranGroup)  
-- **Twitter/X:** [@LioranGroup](https://twitter.com/LioranGroup)
+Because developers deserve options.
 
-> Building impactful, practical products and solutions that make real-life tasks simpler and more efficient. 🚀
+Most infrastructure today is controlled by a small number of global companies.
+
+We're building alternatives that are:
+
+* Simple
+* Developer friendly
+* Self-hostable
+* Production focused
+* Built with transparency
+
+No magic.
+
+No vendor lock-in.
+
+Just software.
+
+---
+
+## 😎 Leadership
+
+**Swaraj Puppalwar**
+Founder & CTO
+
+System architect, full-stack developer, and database engineer.
+
+---
+
+## 🌐 Links
+
+* Main Website: https://lioran.group
+* Developer Solutions: https://lioransolutions.com
+* GitHub Organization: https://github.com/LioranGroupOfficial
+
+---
+
+> "From India to the globe." 😏
